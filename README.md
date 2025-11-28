@@ -1,4 +1,4 @@
-# testargo
+## testargo
 
 
 * Create app: `argocd app create demo --repo https://github.com/dejanu/testargo.git --path demo --dest-server https://kubernetes.default.svc --dest-namespace default`
